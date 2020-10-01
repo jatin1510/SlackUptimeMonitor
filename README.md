@@ -1,4 +1,4 @@
-# Website Down Notifier on Slack
+# Website Down Notifier on Slack by jatinRanpariya
 
 
 <img src="https://raw.githubusercontent.com/AndreiD/SlackUptimeMonitor/master/slackmonitor.JPG" alt="slack website up down notifier uptime ping"/>
@@ -53,8 +53,10 @@ CHANNEL_ID = "G2LCBCXGF"
 
 ### Step 4 - Profit
 
-### Remember to star this repository and fork it.
+### Remember to start this repository and fork it.
 
-#### Bugs / Issues / Suggestions -> write me a message on "Issues"
+#### Bugs / Issues / Suggestions -> write me a message on "Issues" 
+
+#### Thanks for your support
 
 
